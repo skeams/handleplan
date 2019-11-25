@@ -1,0 +1,11 @@
+/home/martin/Workspace/handleplan/bin/Debug/netcoreapp3.0/handleplan
+/home/martin/Workspace/handleplan/bin/Debug/netcoreapp3.0/handleplan.deps.json
+/home/martin/Workspace/handleplan/bin/Debug/netcoreapp3.0/handleplan.runtimeconfig.json
+/home/martin/Workspace/handleplan/bin/Debug/netcoreapp3.0/handleplan.runtimeconfig.dev.json
+/home/martin/Workspace/handleplan/bin/Debug/netcoreapp3.0/handleplan.dll
+/home/martin/Workspace/handleplan/bin/Debug/netcoreapp3.0/handleplan.pdb
+/home/martin/Workspace/handleplan/obj/Debug/netcoreapp3.0/handleplan.csprojAssemblyReference.cache
+/home/martin/Workspace/handleplan/obj/Debug/netcoreapp3.0/handleplan.AssemblyInfoInputs.cache
+/home/martin/Workspace/handleplan/obj/Debug/netcoreapp3.0/handleplan.AssemblyInfo.cs
+/home/martin/Workspace/handleplan/obj/Debug/netcoreapp3.0/handleplan.dll
+/home/martin/Workspace/handleplan/obj/Debug/netcoreapp3.0/handleplan.pdb
